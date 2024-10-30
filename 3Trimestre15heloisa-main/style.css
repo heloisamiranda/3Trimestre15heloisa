@@ -1,0 +1,21 @@
+html{
+    background-color: white;
+    margin: 2.5rem;
+}
+
+body{
+    background-color: black;
+    display: flex;
+    border: solid darkgray 5px;  
+    padding: 30px;
+    border-radius: 20px;
+}
+
+#meuGrafico{
+    max-width: 300px;
+    max-height: 300px;
+}
+
+h1{
+    color: white;
+}
